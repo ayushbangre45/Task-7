@@ -1,0 +1,30 @@
+Browser Used
+- Google Chrome
+
+
+Installed Extensions (Before Cleanup)
+
+| Extension Name                       | Purpose                                      | Status    | Review Notes                                          |
+|--------------------------------------|----------------------------------------------|-----------|--------------------------------------------------------|
+| AutoDraw for skribbl.io              | Auto-draws in skribbl.io game                | ❌ Removed | Game-specific; unclear developer; possible unfair usage |
+| Foxit PDF Creator                    | Convert webpages to PDFs                     | ✅ Kept    | Trusted vendor (Foxit), disabled by default            |
+| Google Docs Offline                  | Offline access to Docs/Sheets/Slides         | ✅ Kept    | Google official extension                              |
+| Google Input Tools                   | Type in different languages                  | ✅ Kept    | Google official                                        |
+| Merlin – Ask AI to Research & Review | AI-powered writing and summarizing tool      | ✅ Kept    | Verified AI tool with legitimate use                   |
+| Picture-in-Picture Extension (Google)| Enable floating video playback               | ✅ Kept    | Google official                                        |
+
+
+
+Actions Taken
+
+- Removed “AutoDraw for skribbl.io”
+  - Reason: Not needed anymore, suspicious functionality (auto-playing), unverified developer.
+- Kept all other extensions after verifying permissions and developer credibility.
+
+
+What I Learned
+
+- Extensions asking to “read and change all data on websites” should be reviewed carefully.
+- Official extensions from Google or trusted developers are generally safe.
+- Unverified tools or game cheats may pose privacy and security risks.
+
